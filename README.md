@@ -10,7 +10,7 @@
 
 ## LARAVEL
 
-## LINK DRIVE PROJECT [https://drive.google.com/file/d/1Bthb2gJS3bOQ4DpIJGgZ41oGmiry7QPC/view?usp=drive_link](https://github.com/farazqy/TUBES_PAW_KELOMPOK_6.git)
+## LINK DRIVE PROJECT [ https://drive.google.com/drive/folders/1bwrWG6Ym35lrxF-qWcHRkr7LMNSsyHsv?usp=drive_link ]
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
